@@ -1,4 +1,4 @@
-var mymap = L.map('mapid').setView([38.6270, -90.1994], 14);
+var mymap = L.map('mapid').setView([38.6270, -90.1994], 12);
 //https://a.tile.openstreetmap.org/{z}/{x}/{y}.png
 //'http://a.tile.stamen.com/toner/{z}/{x}/{y}.png'
 //https://wiki.openstreetmap.org/wiki/Tile_servers
